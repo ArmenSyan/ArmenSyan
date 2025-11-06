@@ -38,7 +38,7 @@
 
 | 💻 Project | 📜 Description | 🔗 Link |
 |------------|----------------|---------|
-| 📝 **ToDo List** | Task management app with filtering and status tracking | *(coming soon)* |
+| 📝 **ToDo List** | Task management app with filtering and status tracking | *https://todo-list-ts-lac.vercel.app* |
 | 💬 **Chat App** | Real-time chat app with Firebase authentication | *https://chat-app-with-ts.vercel.app* |
 | 🏠 **House Equipment Store** | E-commerce app for home appliances with filtering and cart features | *https://house-store-site.vercel.app* |
 
